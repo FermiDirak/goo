@@ -1,5 +1,5 @@
 {
-  "name": "@goo",
+  "name": "goo-search",
   "version": "1.0.0",
   "description": "Search google directly from the CLI",
   "main": "index.js",
