@@ -1,0 +1,30 @@
+{
+  "name": "@goo",
+  "version": "1.0.0",
+  "description": "Search google directly from the CLI",
+  "main": "index.js",
+  "bin": {
+    "goo": "./index.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FermiDirak/goo.git"
+  },
+  "keywords": [
+    "google",
+    "search"
+  ],
+  "author": "FermiDirak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FermiDirak/goo/issues"
+  },
+  "homepage": "https://github.com/FermiDirak/goo#readme",
+  "dependencies": {
+    "opn": "^5.4.0"
+  }
+}
